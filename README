@@ -1,0 +1,7 @@
+To run the programs, you must have install Java on your system so you can run it in the Terminal.
+
+Compile programs first by entering this command, replacing ProgramName to the program you want to run:
+javac ProgramName.java
+
+then to Run the program enter this command, replacing ProgramName to the program you want to run:
+java ProgramName
